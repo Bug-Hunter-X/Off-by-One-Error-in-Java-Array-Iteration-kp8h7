@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating a common off-by-one error. The program attempts to iterate through an array, but the loop condition is incorrect, leading to an ArrayIndexOutOfBoundsException. A solution is also provided to correct the loop condition.
